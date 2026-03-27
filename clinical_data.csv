@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+Age,MMSE,CDR,Label
+65,28,0,NonDemented
+70,24,0.5,VeryMildDemented
+75,20,1,MildDemented
+80,15,2,ModerateDemented
+67,28,0.5,MildDemented
+69,24,2,VeryMildDemented
+73,20,1,NonDemented
+79,15,0,NonDemented
+76,28,0,MildDemented
+89,24,1,VeryMildDemented
+87,20,0.5,ModerateDemented
+86,15,2,MildDemented
+92,28,0,VeryMildDemented
+96,24,1,ModerateDemented
+97,20,2,NonDemented
+,,,
+=======
+Age,MMSE,CDR,Label
+65,28,0,NonDemented
+70,24,0.5,VeryMildDemented
+75,20,1,MildDemented
+80,15,2,ModerateDemented
+67,28,0.5,MildDemented
+69,24,2,VeryMildDemented
+73,20,1,NonDemented
+79,15,0,NonDemented
+76,28,0,MildDemented
+89,24,1,VeryMildDemented
+87,20,0.5,ModerateDemented
+86,15,2,MildDemented
+92,28,0,VeryMildDemented
+96,24,1,ModerateDemented
+97,20,2,NonDemented
+,,,
+>>>>>>> f3d555db94834b24b87a0a8fc17ffcabab2f8324

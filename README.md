@@ -202,12 +202,15 @@ alzheimer-prediction/
 
 **Sample Output**
 
-| Input MRI | Grad-CAM Overlay |
-|:---:|:---:|
-| ![Input MRI](static/uploads/sample_mri.jpg) | ![Grad-CAM Output](static/uploads/sample_gradcam.jpg) |
-| *Original brain scan* | *Red/yellow = high-attention regions* |
+> The Grad-CAM heatmap uses a **JET colormap** — red/yellow zones indicate the brain regions with the highest attention weight driving the prediction. White contours outline the top-35% activation boundary.
 
-> 📝 *To display your own screenshots here, save them as `static/uploads/sample_mri.jpg` and `static/uploads/sample_gradcam.jpg` — they will render automatically in this table.*
+| | Input MRI | Grad-CAM Overlay |
+|:---:|:---:|:---:|
+| **Sample 1** | ![MRI Sample 1](docs/assets/mri_sample1.jpg) | ![Grad-CAM Sample 1](docs/assets/gradcam_sample1.jpg) |
+| **Sample 2** | ![MRI Sample 2](docs/assets/mri_sample2.jpg) | ![Grad-CAM Sample 2](docs/assets/gradcam_sample2.jpg) |
+| | *Original brain scan* | *Red/yellow = high-attention regions* |
+
+> 📁 *Sample images are located in `docs/assets/`. To use your own, replace those files with your screenshots — the table will update automatically.*
 
 ---
 

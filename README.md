@@ -202,6 +202,9 @@ alzheimer-prediction/
 
 **Sample Output**
 
+https://github.com/Userjayant/Alzheimer-s-Disease-Prediction-using-Multimodal-Data/tree/main/docs/assets
+
+see the above link for samples
 > The Grad-CAM heatmap uses a **JET colormap** — red/yellow zones indicate the brain regions with the highest attention weight driving the prediction. White contours outline the top-35% activation boundary.
 
 | | Input MRI | Grad-CAM Overlay |

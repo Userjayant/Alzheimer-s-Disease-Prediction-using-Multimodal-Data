@@ -204,14 +204,8 @@ alzheimer-prediction/
 
 https://github.com/Userjayant/Alzheimer-s-Disease-Prediction-using-Multimodal-Data/tree/main/docs/assets
 
-see the above link for samples
-> The Grad-CAM heatmap uses a **JET colormap** — red/yellow zones indicate the brain regions with the highest attention weight driving the prediction. White contours outline the top-35% activation boundary.
+see the above link for samples of Original brain scan and Red/yellow = high-attention regions (Grad cam images)
 
-| | Input MRI | Grad-CAM Overlay |
-|:---:|:---:|:---:|
-| **Sample 1** | ![MRI Sample 1](https://raw.githubusercontent.com/Userjayant/Alzheimer-s-Disease-Prediction-using-Multimodal-Data/main/docs/assets/mri_sample1.jpg) | ![Grad-CAM Sample 1](https://raw.githubusercontent.com/Userjayant/Alzheimer-s-Disease-Prediction-using-Multimodal-Data/main/docs/assets/gradcam_sample1.jpg) |
-| **Sample 2** | ![MRI Sample 2](https://raw.githubusercontent.com/Userjayant/Alzheimer-s-Disease-Prediction-using-Multimodal-Data/main/docs/assets/mri_sample2.jpg) | ![Grad-CAM Sample 2](https://raw.githubusercontent.com/Userjayant/Alzheimer-s-Disease-Prediction-using-Multimodal-Data/main/docs/assets/gradcam_sample2.jpg) |
-| | *Original brain scan* | *Red/yellow = high-attention regions* |
 
 > 📁 *Sample images are located in `docs/assets/` in your repository. Images are served via GitHub raw URLs — they render automatically once the folder and files are committed to `main`.*
 
